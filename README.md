@@ -59,10 +59,10 @@ $ perl text_to_sentences.pl
 ---
 
 ## Contributors/People
-| <a href="http://fvcproductions.com" target="_blank">**Özge Dinçsoy**</a> | <a href="http://fvcproductions.com" target="_blank">**Can Özbey**</a> |
+| <a href="http://fvcproductions.com" target="_blank">**Can Özbey**</a> | <a href="http://fvcproductions.com" target="_blank">**Özge Dinçsoy**</a> |
 | :---: |:---:|
-| [![Özge Dinçsoy](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![Can Özbey](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
-| <a href="https://github.com/ozgedincsoy" target="_blank">`github.com/ozgedincsoy`</a> | <a href="https://github.com/canozbey" target="_blank">`github.com/canozbey`</a>
+| [![Can Özbey](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![Özge Dinçsoy](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
+| <a href="https://github.com/canozbey" target="_blank">`github.com/canozbey`</a> | <a href="https://github.com/ozgedincsoy" target="_blank">`github.com/ozgedincsoy`</a>
 
 - You should probably resize their picture using `?s=200` at the end of the image URL.
 
