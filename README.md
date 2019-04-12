@@ -16,10 +16,10 @@
 
 ## Installation
 
-- Use the "text_to_sentences.pl" script to split your "text.txt" file into sentences and store them in "sentences.txt". Your "text.txt" and "text_to_sentences.pl" files should be in the same folder. You can run the program as:
+- Use the "text_to_sentences_v1.pl" or "text_to_sentences_v2.pl" script to split your "text.txt" file into sentences and store them in "sentences.txt". Your "text.txt" and perl scripts should be in the same folder. You can run the program as:
 
 ```shell
-$ perl text_to_sentences.pl
+$ perl text_to_sentences_v1.pl
 ```
 
 ### Clone
