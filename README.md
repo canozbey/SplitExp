@@ -1,6 +1,6 @@
 # SplitExp
 
-> SplitExp is a rule based program that detects sentence boundaries in Turkish Texts by using regular expressions. 
+> SplitExp is a rule based program that detects sentence boundaries including direct quotations in Turkish Texts by using regular expressions. 
 
 
 **The Regular Expression of SplitExp Version 1**
