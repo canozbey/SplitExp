@@ -45,18 +45,23 @@ $ perl text_to_sentences_v1.pl
 
 ### Test Results of SplitExp - Version 1
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   | TP | FP | FN | Precision | Recall | F-Measure |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| EOS  | 6288  | 204 | 9 | 96.86 | 99.86 | 98.34 |
+| Number  | 806 | 73 | 6 | 91.70 | 99.26 | 95.33 |
+| Quotation | 1731 | 4 | 255 | 99.77 | 87.16 | 93.04 |
+| Extension | 36 | 1 | 2 | 97.30 | 94.74 | 96.00 |
+| Abbreviation | 195 | 5 | 15 | 97.50 | 92.86 | 95.12 |
 
 ### Test Results of SplitExp - Version 2
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+|   | TP | FP | FN | Precision | Recall | F-Measure |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| EOS  | 6265  | 103 | 32 | 98.38 | 99.49 | 98.93 |
+| Number  | 805 | 58 | 7 | 93.28 | 99.14 | 96.12 |
+| Quotation | 1856 | 14 | 130 | 99.25 | 93.45 | 96.26 |
+| Extension | 36 | 1 | 2 | 97.30 | 94.74 | 96.00 |
+| Abbreviation | 190 | 15 | 20 | 92.68 | 90.48 | 91.57 |
 
 
 ## Contributing
