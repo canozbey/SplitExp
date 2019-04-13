@@ -29,7 +29,7 @@ $ perl text_to_sentences_v1.pl
 
 ### Setup
 
-- The regular expression is made for Turkish texts. It uses extension and abbreviation dictionaries in Trie format. You can extend these dictionaries and adapt them to the code to get more accurate sentence boundary detection. The dictionaries in the regular expression is as follows:
+- The regular expression is made for Turkish texts. It uses extension and abbreviation dictionaries in Trie format. You can extend these dictionaries and embed them in the regular expression to get more accurate sentence boundary detection results. The dictionaries in the regular expression is as follows:
 
 #### Abbreviations 
 
