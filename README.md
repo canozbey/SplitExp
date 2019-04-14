@@ -1,5 +1,7 @@
 # SplitExp
 
+> "SplitExp: An Expression for Sentence Boundary Detection in Turkish News"
+
 > SplitExp is a rule based program that detects sentence boundaries including direct quotations in Turkish texts by using regular expressions. 
 
 
