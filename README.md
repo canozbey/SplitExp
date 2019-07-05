@@ -93,8 +93,6 @@ $ perl text_to_sentences_v1.pl
 | :---: |:---:|
 | <a href="https://github.com/canozbey" target="_blank">`github.com/canozbey`</a> | <a href="https://github.com/ozgedincsoy" target="_blank">`github.com/ozgedincsoy`</a>
 
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
 ---
 
 ## Support
