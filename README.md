@@ -91,7 +91,7 @@ $ perl text_to_sentences_v1.pl
 ## Contributors/People
 | <a href="http://fvcproductions.com" target="_blank">**Can Özbey**</a> | <a href="http://fvcproductions.com" target="_blank">**Özge Dinçsoy**</a> |
 | :---: |:---:|
-| [![Can Özbey](https://avatars3.githubusercontent.com/u/46598440?s=460&v=4?s=200)](http://ideateknoloji.com.tr)    | [![Özge Dinçsoy](https://avatars2.githubusercontent.com/u/25695639?s=460&v=4?s=200)](http://ideateknoloji.com.tr) |
+| [![Can Özbey](https://avatars3.githubusercontent.com/u/46598440?s=200&v=4)](http://ideateknoloji.com.tr)    | [![Özge Dinçsoy](https://avatars2.githubusercontent.com/u/25695639?s=200&v=4)](http://ideateknoloji.com.tr) |
 | <a href="https://github.com/canozbey" target="_blank">`github.com/canozbey`</a> | <a href="https://github.com/ozgedincsoy" target="_blank">`github.com/ozgedincsoy`</a>
 
 - You should probably resize their picture using `?s=200` at the end of the image URL.
