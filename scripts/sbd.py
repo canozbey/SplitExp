@@ -1,4 +1,5 @@
-﻿import regex
+#regex module must be installed to run the code. It can be found at https://pypi.org/project/regex/
+import regex
 
 def split_sentences(pattern, input):
     sentences = []
