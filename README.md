@@ -70,7 +70,7 @@ $ perl text_to_sentences_v1.pl
 
 If you use regular expressions provided here for Turkish SBD tasks, or the annotated dataset in your research, please cite the following work:
 
-Özbey, C., and Dinçsoy, Ö. (2019). Sentence Boundary Detection in Turkish News with Regular Expressions. In 2019 IEEE 27th Signal Processing and Communications Applications Conference.
+Özbey, C., and Dinçsoy, Ö. (2019). Sentence Boundary Detection in Turkish News with Regular Expressions. In 2019 IEEE 27th Signal Processing and Communications Applications Conference (SIU).
 
 ## Contributing
 
