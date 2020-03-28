@@ -4,7 +4,12 @@ import java.util.List;
 import com.florianingerl.util.regex.Matcher;
 import com.florianingerl.util.regex.Pattern;
 
+/* 
 
+The regex library above must be installed to successfully run the code. The executable jar file can be found at https://mvnrepository.com/artifact/com.github.florianingerl.util/regex/1.1.9
+Github page of the library: https://github.com/florianingerl/com.florianingerl.util.regex
+
+*/
 
 public class SBD {
 	
