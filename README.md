@@ -24,6 +24,7 @@
 ```shell
 $ perl text_to_sentences_v1.pl
 ```
+- You may also embed sentence boundary detection scripts easily in 4 different programming languages provided [here](/scripts).
 
 ### Clone
 
